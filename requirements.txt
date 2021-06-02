@@ -39,7 +39,7 @@ soupsieve==1.9.5
 sqlparse==0.3.0
 statsmodels==0.10.1
 upbitpy==1.0
-urllib3==1.24.1
+urllib3==1.26.5
 websocket==0.2.1
 wrapt==1.11.1
 zope.interface==4.6.0

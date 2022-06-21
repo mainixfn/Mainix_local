@@ -15,7 +15,7 @@ jdcal==1.4
 lxml==4.3.1
 macholib==1.11
 mathpy==0.3.0
-numpy==1.16.2
+numpy==1.22.0
 openpyxl==2.6.0
 pandas==0.24.1
 pandas-datareader==0.7.0

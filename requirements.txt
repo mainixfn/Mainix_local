@@ -12,7 +12,7 @@ gevent==1.4.0
 greenlet==0.4.15
 idna==2.8
 jdcal==1.4
-lxml==4.3.1
+lxml==4.9.1
 macholib==1.11
 mathpy==0.3.0
 numpy==1.16.2
